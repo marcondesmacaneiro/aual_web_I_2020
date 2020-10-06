@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1><?php echo "Página do Marcondes"; ?></h1>
+    <h1><?="Página do Marcondes"?></h1>
     <?php //depende de configuração no php.ini ShortOpenTag => <?
         echo 'Marcondes Maçaneiro'
     ?>
