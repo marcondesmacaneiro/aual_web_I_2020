@@ -1,3 +1,3 @@
 <?php
-    echo 'marcondes';ddd
+    echo 'marcondes';
 ?>
